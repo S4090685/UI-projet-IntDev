@@ -4,7 +4,7 @@ let buttonOutputText = document.getElementById("buttonOutput");
 let buttonEventText = document.getElementById("currentButtonEvent");
 let heldButtonText = document.getElementById("buttonHeldEvent");
 
-/* 
+
 myButton.addEventListener("mouseenter", () => { 
   buttonEventText.textContent = "mouseenter";
 });
@@ -20,7 +20,7 @@ myButton.addEventListener("mousedown", () => {
 myButton.addEventListener("mouseup", () => { 
   buttonEventText.textContent = "mouseup";
 });
- */
+
 ///////////// Checkbox
 let myCheckbox = document.getElementById("exampleCheckbox");
 let checkboxOutputText = document.getElementById("checkboxOutput");
