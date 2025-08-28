@@ -25,6 +25,7 @@ let sampler = new Tone.Sampler({
     urls: {
         D2: "mel_low_d.wav",
         C3: "four.m4a",
+        F3: "one.m4a",
     },
     baseUrl: "./assets/audioSamples/"
 });
